@@ -1,4 +1,4 @@
-# instance-details
+# instances-details
 `instance-details` lets you easily create infrastructure on AWS and deploy an application that displays the information of all running EC2 instances.
 ## Project breakdown
 - Creating an application to return a list of all running EC2 instances in a region in an AWS account along with their corresponding IPs and Tags when called on the **/ec2** path
