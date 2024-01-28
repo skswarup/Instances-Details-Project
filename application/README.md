@@ -1,4 +1,4 @@
-# application
+# application:
 
 ## Files
 | File name | Description |
