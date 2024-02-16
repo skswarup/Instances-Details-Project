@@ -16,7 +16,7 @@ def ec2_instances_details():
     'us-east-1'
     ]
    
-    # Initializing a list to store the details of running instances
+    #  Initializing a list to store the details of running instances
     main_list=[]
 
     # Check status of EC2 in region
